@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Commentary on primary source document prepared by professor.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-007j-after-columbus-fall-2003/dc8880696fdd78d2d77ba5be3a120382_american_identity.pdf
+file: /media/courses/21l-007j-after-columbus-fall-2003/dc8880696fdd78d2d77ba5be3a120382_american_identity.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: american_identity.pdf
 uid: dc888069-6fdd-78d2-d77b-a5be3a120382
