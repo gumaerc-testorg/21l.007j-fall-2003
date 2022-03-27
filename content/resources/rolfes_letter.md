@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 07bde6e2-4af2-1d67-e22c-18191df5032e
 resourcetype: Document
 title: rolfes_letter.pdf
 uid: 8ff14b1a-bae2-917f-3e9b-f54a1d0d7707

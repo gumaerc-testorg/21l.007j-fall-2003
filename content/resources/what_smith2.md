@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 07bde6e2-4af2-1d67-e22c-18191df5032e
 resourcetype: Document
 title: what_smith2.pdf
 uid: c7e01b65-a68e-de15-188a-76e0c78358a2

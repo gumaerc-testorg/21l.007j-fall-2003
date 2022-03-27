@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 07bde6e2-4af2-1d67-e22c-18191df5032e
 resourcetype: Document
 title: walcott1_castaway.pdf
 uid: 44dde996-6894-7745-70c3-dab1a65d9f62

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 07bde6e2-4af2-1d67-e22c-18191df5032e
 resourcetype: Document
 title: pocahontas_wate.pdf
 uid: 47140458-5532-dcc0-d443-43acc8707260
