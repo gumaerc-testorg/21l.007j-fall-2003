@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-007j-after-columbus-fall-2003/47b0df91f0abb151ff7d7cd8fe250f0d_how_to_2.pdf
+file: /courses/21l-007j-after-columbus-fall-2003/47b0df91f0abb151ff7d7cd8fe250f0d_how_to_2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
