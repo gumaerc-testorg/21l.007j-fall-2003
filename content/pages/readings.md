@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section provides a bibliography of required texts used in the course,
+  and a listing of the readings and supplemental materials due for each session. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -248,7 +250,7 @@ Smith. _Generall Historie._
 Pp. 136-58 (CP)
 {{< tdclose >}}
 {{< tdopen >}}
-Reading John Smith ([PDF]({{< baseurl >}}/resources/jamestown_smith1))
+Reading John Smith ({{% resource_link 16966db2-36af-4578-fb2d-445872e524b6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +265,7 @@ Smith. _Generall Historie._
 Pp. 180-207 (CP)
 {{< tdclose >}}
 {{< tdopen >}}
-What Happens in Smith (part 2) ([PDF]({{< baseurl >}}/resources/what_smith2))
+What Happens in Smith (part 2) ({{% resource_link c7e01b65-a68e-de15-188a-76e0c78358a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -278,7 +280,7 @@ Screening
  
 {{< tdclose >}}
 {{< tdopen >}}
-John Rolfe's Letter ([PDF]({{< baseurl >}}/resources/rolfes_letter))
+John Rolfe's Letter ({{% resource_link 8ff14b1a-bae2-917f-3e9b-f54a1d0d7707 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -293,7 +295,7 @@ Movie: _Pocahontas._ John Rolfe's Letter (See "Backgrounds.")
  
 {{< tdclose >}}
 {{< tdopen >}}
-After Pocahontas ([PDF]({{< baseurl >}}/resources/pocahontas_wate))
+After Pocahontas ({{% resource_link 47140458-5532-dcc0-d443-43acc8707260 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -308,7 +310,7 @@ Rowlandson. _Sovereignty._
 Pp. 63-87
 {{< tdclose >}}
 {{< tdopen >}}
-American Identities; Mary Rowlandson ([PDF]({{< baseurl >}}/resources/american_identity))
+American Identities; Mary Rowlandson ({{% resource_link dc888069-6fdd-78d2-d77b-a5be3a120382 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -458,7 +460,7 @@ Walcott, "The Castaway," "Crusoe's Island," "Crusoe's Journal."
  
 {{< tdclose >}}
 {{< tdopen >}}
-Notes on Walcott (1) ([PDF]({{< baseurl >}}/resources/walcott1_castaway))
+Notes on Walcott (1) ({{% resource_link 44dde996-6894-7745-70c3-dab1a65d9f62 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -488,7 +490,7 @@ Walcott, "Ruins of a Great House," "New World," "The Sea is History."
  
 {{< tdclose >}}
 {{< tdopen >}}
-Notes on Walcott (2) ([PDF]({{< baseurl >}}/resources/walcott_poems2))
+Notes on Walcott (2) ({{% resource_link 2a2b0984-9952-7ab6-7034-0d66b65eead6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

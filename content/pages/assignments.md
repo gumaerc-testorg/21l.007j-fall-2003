@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the four essay assignments for the course, guidelines
+  on writing and revising papers, and instructions for course presentations.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,19 +14,19 @@ Essay Assignments
 
 You will be writing four essays for the class, which should total between 20-25 pp. At least the first of these must be revised, including not only proof-reading but substantive rethinking, and will be regraded; revisions of later essays are allowed but not required.
 
-Essay 1 Assignment ([PDF]({{< baseurl >}}/resources/essay_1))
+Essay 1 Assignment ({{% resource_link ff2d4424-8fe2-1553-76ad-ce36d3aa8d05 "PDF" %}})
 
-Essay 2 Assignment ([PDF]({{< baseurl >}}/resources/essay_2))
+Essay 2 Assignment ({{% resource_link f973d026-686c-d2b8-0f8a-91fc17e383b0 "PDF" %}})
 
-Essay 3 Assignment ([PDF]({{< baseurl >}}/resources/essay_3))
+Essay 3 Assignment ({{% resource_link edc00bac-61b6-b4b0-c9aa-478d276e47e1 "PDF" %}})
 
-Essay 4 Assignment ([PDF]({{< baseurl >}}/resources/essay_4))
+Essay 4 Assignment ({{% resource_link 7b86bd94-1b5b-2ccf-077f-4141dbe276db "PDF" %}})
 
-Guidelines for How to Format a Paper ([PDF]({{< baseurl >}}/resources/how_to_1))
+Guidelines for How to Format a Paper ({{% resource_link 2161022f-abbb-393e-dc25-54eabbd48dcc "PDF" %}})
 
-Guidelines for Revising Essays ([PDF]({{< baseurl >}}/resources/how_to_2))
+Guidelines for Revising Essays ({{% resource_link 47b0df91-f0ab-b151-ff7d-7cd8fe250f0d "PDF" %}})
 
-Paramedic Method for Revising Prose (adapted from Richard Lanham) ([PDF]({{< baseurl >}}/resources/how_to_3))
+Paramedic Method for Revising Prose (adapted from Richard Lanham) ({{% resource_link 4cceed8a-fab4-e80a-ba65-fc83b8ec27ed "PDF" %}})
 
 Presentations
 -------------
