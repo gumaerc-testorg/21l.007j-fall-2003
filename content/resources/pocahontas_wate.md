@@ -3,6 +3,7 @@ content_type: resource
 description: From, Edward Waterhouse, A Declaration of the State of the Colony in
   Virginia (London, 1622)
 file: /courses/21l-007j-after-columbus-fall-2003/471404585532dcc0d44343acc8707260_pocahontas_wate.pdf
+file_size: 15390
 file_type: application/pdf
 learning_resource_types:
 - Readings

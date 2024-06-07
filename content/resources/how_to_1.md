@@ -2,6 +2,7 @@
 content_type: resource
 description: Guidelines.
 file: /courses/21l-007j-after-columbus-fall-2003/2161022fabbb393edc2554eabbd48dcc_how_to_1.pdf
+file_size: 14875
 file_type: application/pdf
 learning_resource_types:
 - Assignments
