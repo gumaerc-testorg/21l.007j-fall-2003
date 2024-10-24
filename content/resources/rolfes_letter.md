@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Rolfe's letter.
-file: /courses/21l-007j-after-columbus-fall-2003/8ff14b1abae2917f3e9bf54a1d0d7707_rolfes_letter.pdf
+file: /ol-ocw-studio-app/courses/21l-007j-after-columbus-fall-2003/8ff14b1abae2917f3e9bf54a1d0d7707_rolfes_letter.pdf
 file_size: 15789
 file_type: application/pdf
 learning_resource_types:
