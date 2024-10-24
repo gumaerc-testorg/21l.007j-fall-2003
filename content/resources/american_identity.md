@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Commentary on primary source document prepared by professor.
-file: /courses/21l-007j-after-columbus-fall-2003/dc8880696fdd78d2d77ba5be3a120382_american_identity.pdf
+file: /ol-ocw-studio-app/courses/21l-007j-after-columbus-fall-2003/dc8880696fdd78d2d77ba5be3a120382_american_identity.pdf
 file_size: 17130
 file_type: application/pdf
 learning_resource_types:

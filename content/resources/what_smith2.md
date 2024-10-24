@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Professor's commentary on primary source documents.
-file: /courses/21l-007j-after-columbus-fall-2003/c7e01b65a68ede15188a76e0c78358a2_what_smith2.pdf
+file: /ol-ocw-studio-app/courses/21l-007j-after-columbus-fall-2003/c7e01b65a68ede15188a76e0c78358a2_what_smith2.pdf
 file_size: 12507
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: (adapted from Richard Lanham)
-file: /courses/21l-007j-after-columbus-fall-2003/4cceed8afab4e80aba65fc83b8ec27ed_how_to_3.pdf
+file: /ol-ocw-studio-app/courses/21l-007j-after-columbus-fall-2003/4cceed8afab4e80aba65fc83b8ec27ed_how_to_3.pdf
 file_size: 21022
 file_type: application/pdf
 learning_resource_types:
