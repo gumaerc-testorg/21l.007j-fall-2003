@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Professor's notes on primary source document.
-file: /ol-ocw-studio-app/courses/21l-007j-after-columbus-fall-2003/2a2b098499527ab670340d66b65eead6_walcott_poems2.pdf
+file: /courses/21l-007j-after-columbus-fall-2003/2a2b098499527ab670340d66b65eead6_walcott_poems2.pdf
 file_size: 21989
 file_type: application/pdf
 learning_resource_types:
