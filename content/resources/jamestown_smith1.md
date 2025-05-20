@@ -2,7 +2,7 @@
 content_type: resource
 description: Commentary and timeline to accompany primary source document.  Prepared
   by professor.
-file: /ol-ocw-studio-app/courses/21l-007j-after-columbus-fall-2003/16966db236af4578fb2d445872e524b6_jamestown_smith1.pdf
+file: /courses/21l-007j-after-columbus-fall-2003/16966db236af4578fb2d445872e524b6_jamestown_smith1.pdf
 file_size: 15930
 file_type: application/pdf
 learning_resource_types:

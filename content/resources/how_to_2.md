@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21l-007j-after-columbus-fall-2003/47b0df91f0abb151ff7d7cd8fe250f0d_how_to_2.pdf
+file: /courses/21l-007j-after-columbus-fall-2003/47b0df91f0abb151ff7d7cd8fe250f0d_how_to_2.pdf
 file_size: 23902
 file_type: application/pdf
 learning_resource_types:
