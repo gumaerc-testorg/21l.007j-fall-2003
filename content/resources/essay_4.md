@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Includes instructions.
-file: /courses/21l-007j-after-columbus-fall-2003/7b86bd941b5b2ccf077f4141dbe276db_essay_4.pdf
+file: /ol-ocw-studio-app/courses/21l-007j-after-columbus-fall-2003/7b86bd941b5b2ccf077f4141dbe276db_essay_4.pdf
 file_size: 11171
 file_type: application/pdf
 learning_resource_types:

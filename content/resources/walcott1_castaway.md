@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Notes by the professor on Derek Walcott's poem.
-file: /courses/21l-007j-after-columbus-fall-2003/44dde9966894774570c3dab1a65d9f62_walcott1_castaway.pdf
+file: /ol-ocw-studio-app/courses/21l-007j-after-columbus-fall-2003/44dde9966894774570c3dab1a65d9f62_walcott1_castaway.pdf
 file_size: 13159
 file_type: application/pdf
 learning_resource_types:
