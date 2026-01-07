@@ -14,19 +14,22 @@ In addition to the required texts used in the course, a listing of the readings 
 Required Texts
 --------------
 
-Editions of some of the required texts for the course are available via the {{% resource_link "f8475804-11ba-4cb6-b205-214b7800cd09" "Project Gutenberg site" %}}. See the link next to each available text.
+Editions of some of the required texts for the course are available via the [Project Gutenberg site](http://www.gutenberg.org/). See the link next to each available text.
 
 de Léry, Jean. _History of a Voyage to the Land of Brazil._ Edited and translated by Janet Whatley. U of California Press, 1990.
 
-_The Jesuit Relations: Natives and Missionaries in Seventeenth-Century North America._ (The Bedford Series in History and Culture) Edited by Allan Greer. Bedford/St. Martin's. ({{% resource_link "571a7334-f055-44c2-927e-72cf3e2abb44" "Jesuit Relations online, searchable text" %}})
+_The Jesuit Relations: Natives and Missionaries in Seventeenth-Century North America._ (The Bedford Series in History and Culture) Edited by Allan Greer. Bedford/St. Martin's. ([Jesuit Relations online, searchable text](http://moses.creighton.edu/kripke/jesuitrelations/))
 
-Shakespeare, William. _The Tempest (Oxford World’s Classics)._ Edited by Stephen Orgel. Oxford University Press. NB: Also contains readings in Montaigne and Strachey ({{% resource_link "6363f154-dfc0-4c2e-b510-2fdea0e6a03c" "Download from Project Gutenberg site" %}})
+Shakespeare, William. _The Tempest (Oxford World’s Classics)._ Edited by Stephen Orgel. Oxford University Press. NB: Also contains readings in Montaigne and Strachey ([Download from Project Gutenberg site](http://www.gutenberg.org/browse/BIBREC/BR2235.HTM
+))
 
 Rowlandson, Mary. _Sovereignty and Goodness of God._ Edited by Neal Salisbury. Bedford/St. Martin's, 1997.
 
-Seaver, James E. _A Narrative of the Life of Mrs. Mary Jemison._ Univ. of Oklahoma Press. ({{% resource_link "cb6f413f-7edd-453f-9a46-88bbd5027372" "Download from Project Gutenberg site" %}})
+Seaver, James E. _A Narrative of the Life of Mrs. Mary Jemison._ Univ. of Oklahoma Press. ([Download from Project Gutenberg site](http://www.gutenberg.org/browse/BIBREC/BR6960.HTM
+))
 
-Defoe, Daniel. _Robinson Crusoe: An Authoritative Text, Contexts, Criticism._ Edited by Michael Shinagel. W.W. Norton & Company. ({{% resource_link "0aa1b5d5-258c-4b79-8baf-b1d4007cb80d" "Download from Project Gutenberg site" %}})
+Defoe, Daniel. _Robinson Crusoe: An Authoritative Text, Contexts, Criticism._ Edited by Michael Shinagel. W.W. Norton & Company. ([Download from Project Gutenberg site](http://www.gutenberg.org/browse/BIBREC/BR521.HTM
+))
 
 Coetzee, J. M. _Foe._ Penguin USA, 1988.
 
